@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Amuzz2025
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning B.E in Artificial Intelligence And Machine Learnin
-- 📫 How to reach me through email : ingleaman2025@gmail.com
 - 😄 Pronouns: Amuzz
 
 
